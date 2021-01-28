@@ -1,2 +1,2 @@
-# Projetos em C
- Pequenos projetos que fiz para estudar C
+# Escolhedor de episódios aleatórios
+ Fiz esse programinha para decidir que episódio assistir de alguma série!
